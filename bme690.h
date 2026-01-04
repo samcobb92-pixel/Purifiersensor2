@@ -35,3 +35,4 @@ class BME690Component : public PollingComponent, public i2c::I2CDevice {
 
 }  // namespace bme690
 }  // namespace esphome
+
